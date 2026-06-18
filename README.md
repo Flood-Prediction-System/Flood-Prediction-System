@@ -26,10 +26,7 @@ Flood-Prediction-System/
 │   ├── raw/
 │   └── processed/
 ├── notebooks/
-├── models/
-├── images/
-├── reports/
-└── outputs/
+└── reports/
 ```
 
 ## 👥 Contributors
