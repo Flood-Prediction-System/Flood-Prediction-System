@@ -37,7 +37,7 @@ This project was developed collaboratively.
 - Designed and implemented the Machine Learning pipeline.
 - Performed feature engineering.
 - Developed the Stacking Ensemble model using Random Forest and XGBoost.
-- Trained and evaluated the model.
+- Trained and Evaluated the model.
 
 ### Abhishek Bhatnagar
 - Conducted Exploratory Data Analysis (EDA).
